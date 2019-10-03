@@ -1,0 +1,4 @@
+{
+   "include": ["app/util.js","app/reporter.js"],
+   "exclude": ["jasmine.runner.js", "**/*_test.js"]
+}

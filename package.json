@@ -1,0 +1,21 @@
+{
+  "name": "mytheresa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/typescript/bin/tsc && protractor temp/config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.4.2",
+    "@types/node": "^12.7.9",
+    "protractor": "^5.4.2",
+    "protractor-api-resource": "^1.0.3",
+    "typescript": "^3.6.3"
+  },
+  "devDependencies": {
+    "protractor-beautiful-reporter": "^1.3.5"
+  }
+}

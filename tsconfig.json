@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "temp",
+        "types": ["jasmine", "node"]
+    },
+    "exclude": ["node_modules"],
+}
